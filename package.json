@@ -1,6 +1,12 @@
 {
   "name": "km-npm-test",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A test to create an npm package",
-  "author": "kmanktelow"
+  "author": "kmanktelow",
+  "sass": "src/scss/style.scss",
+  "variables": "src/scss/_variables.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmanktelow/km-npm-test"
+  },
 }
