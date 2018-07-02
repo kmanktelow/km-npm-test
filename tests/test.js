@@ -1,0 +1,1 @@
+//a javascript test file not to be included in the NPM package 
